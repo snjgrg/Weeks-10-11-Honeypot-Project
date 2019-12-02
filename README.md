@@ -11,3 +11,7 @@
 3. Summary:
 
     #### Number of Attacks: 3697291
+   
+Any unresolved questions raised by the data collected: None
+
+![](https://github.com/snjgrg/Weeks-10-11-Honeypot-Project/blob/master/HoneyPot.gif)
