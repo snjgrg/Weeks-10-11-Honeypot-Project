@@ -10,7 +10,7 @@
     
 3. Summary:
 
-    #### Number of Attacks: 3697291
+    #### Number of Attacks: 3717187
    
 Any unresolved questions raised by the data collected: None
 
